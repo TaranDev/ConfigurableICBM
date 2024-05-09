@@ -1,0 +1,1 @@
+Allows configuration of singularity band and its scaling
